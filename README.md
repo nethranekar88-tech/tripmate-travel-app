@@ -20,16 +20,16 @@ TripMate is a mobile travel booking application designed using FlutterFlow.
 ## Screenshots
 
 ### Login Page
-![Login page](screenshots/login page.png)
+![Login page](screenshots/login-page.png)
 
 ### Register Page
-![Register page](screenshots/register page.png)
+![Register page](screenshots/register-page.png)
 
 ### Home Page
-![Home page](screenshots/home page.png)
+![Home page](screenshots/home-page.png)
 
 ### Designation Page
-![Designation page](screenshots/designation page.png)
+![Designation page](screenshots/designation-page.png)
 
 ### Booking confirmation page
-![Booking confirmation page](screenshots/booking confirmation page.png)
+![Booking confirmation page](screenshots/booking-confirmation-page.png)
