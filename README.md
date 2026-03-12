@@ -41,18 +41,6 @@ Landing Page
 → Booking Confirmation
 → My Trips Page
 
-Project Structure
-
-tripmate-travel-app
-│
-├── README.md
-├── screenshots
-│ ├── login-page.png
-│ ├── register-page.png
-│ ├── home-page.png
-│ ├── destination-page.png
-│ └── booking-confirmation-page.png
-
 Screenshots
 Login Page
 
@@ -89,4 +77,8 @@ Google Maps integration
 
 User reviews and ratings
 
-Travel itinerary planner
+Travel itinerary planner<img width="1920" height="1080" alt="register-page png" src="https://github.com/user-attachments/assets/66c784e0-96ff-436b-bc3a-6a1caecdfa4f" />
+<img width="1920" height="1080" alt="login-page png" src="https://github.com/user-attachments/assets/72df6927-a5dd-4ec0-9cb8-98786cc5259d" />
+<img width="1920" height="1080" alt="home-page png" src="https://github.com/user-attachments/assets/6d7dcc2c-bc5d-45a2-ade6-b36419dc9145" />
+<img width="1920" height="1080" alt="destination-page png" src="https://github.com/user-attachments/assets/1350ad99-ded2-4c6e-a5fb-35995bc9cbb3" />
+<img width="1920" height="1080" alt="booking-confirmation-page png" src="https://github.com/user-attachments/assets/3d7e4332-4d8b-4fa3-a3a6-ec1866542244" />
