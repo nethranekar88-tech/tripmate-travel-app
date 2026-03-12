@@ -51,6 +51,7 @@ This project demonstrates mobile UI design, navigation flow, and travel booking 
 
 ## 📦 Project Structure
 
+```
 tripmate-travel-app
 │
 ├── README.md
@@ -60,15 +61,16 @@ tripmate-travel-app
 │ ├── home-page.png
 │ ├── destination-page.png
 │ └── booking-confirmation-page.png
+```
 
 ## 📚 What You Learn
 
-• Mobile UI design using FlutterFlow
-• App navigation and multi-page workflow
-• Authentication flow (Login & Register)
-• Designing travel booking app user experience
-• Structuring a mobile project for GitHub portfolio
-• Creating professional README documentation
+- Mobile UI design using FlutterFlow
+- App navigation and multi-page workflow
+- Authentication flow (Login & Register)
+- Designing travel booking app user experience
+- Structuring a mobile project for GitHub portfolio
+- Creating professional README documentation
 
 ## 🚧 Future Improvements
 
@@ -90,19 +92,23 @@ MIT License – Feel free to use this project for learning or in your own projec
 
 ## 💼 Portfolio Description
 
-# TripMate Travel App – FlutterFlow
+- **TripMate Travel App – FlutterFlow**
 
-• Developed a mobile travel booking application using FlutterFlow
-• Designed a clean and responsive mobile UI for travel exploration
-• Implemented user authentication with login and registration screens
-• Built destination browsing and trip booking flow
-• Created booking confirmation and trip overview screens
-• Structured app navigation for smooth user experience
+- Developed a mobile travel booking application using FlutterFlow
+- Designed a clean and responsive mobile UI for travel exploration
+- Implemented user authentication with login and registration screens
+- Built destination browsing and trip booking flow
+- Created booking confirmation and trip overview screens
+- Structured app navigation for smooth user experience
 
-- Key Highlights: Travel booking flow, responsive UI, multi-screen navigation
+**Key Highlights**: Travel booking flow, responsive UI, multi-screen navigation
 
-- Technologies: FlutterFlow, Firebase Authentication, Flutter UI
+**Technologies**: FlutterFlow, Firebase Authentication, Flutter UI
+
+---
 
 **Built with ❤️ using FlutterFlow**
 
 *Last Updated: March 2026*
+
+
