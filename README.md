@@ -92,18 +92,18 @@ MIT License – Feel free to use this project for learning or in your own projec
 
 ## 💼 Portfolio Description
 
-- **TripMate Travel App – FlutterFlow**
-
-- Developed a mobile travel booking application using FlutterFlow
-- Designed a clean and responsive mobile UI for travel exploration
-- Implemented user authentication with login and registration screens
-- Built destination browsing and trip booking flow
-- Created booking confirmation and trip overview screens
-- Structured app navigation for smooth user experience
-
-**Key Highlights**: Travel booking flow, responsive UI, multi-screen navigation
-
-**Technologies**: FlutterFlow, Firebase Authentication, Flutter UI
+> **TripMate Travel App – FlutterFlow**
+>
+> • Developed a mobile travel booking application using FlutterFlow
+> • Designed a clean and responsive mobile UI for travel exploration
+> • Implemented user authentication with login and registration screens
+> • Built destination browsing and trip booking flow
+> • Created booking confirmation and trip overview screens
+> • Structured app navigation for smooth user experience
+>
+> **Key Highlights**: Travel booking flow, responsive UI, multi-screen navigation
+>
+> **Technologies**: FlutterFlow, Firebase Authentication, Flutter UI
 
 ---
 
