@@ -2,7 +2,7 @@
 
 TripMate is a mobile travel booking application designed using FlutterFlow.
 
-About The Project
+**About The Project**
 
 TripMate is a travel booking mobile application prototype built using FlutterFlow.
 The app allows users to explore travel destinations, view trip details, and simulate booking travel packages.
